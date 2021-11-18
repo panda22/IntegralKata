@@ -1,6 +1,7 @@
 Integral Kata
 
 To run this project please import it using Eclipse
+
 File -> Import -> Projects from Git (with smart import) -> Clone URI
 URI: https://github.com/panda22/IntegralKata.git
 Host: github.com
